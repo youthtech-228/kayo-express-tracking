@@ -1,0 +1,28 @@
+#img-logo {
+  width: 150px;
+}
+
+#btnSearch {
+  width: 200px;
+}
+
+.msgContainer {
+  height: 500px;
+  border: solid 1px #3333;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 23px;
+  font-weight: bold;
+}
+
+#trackNumberMsg {
+  color: red;
+  font-size: 14px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+#spinner {
+  width: 3rem; 
+  height: 3rem;
+}
